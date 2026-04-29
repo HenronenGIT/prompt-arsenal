@@ -1,6 +1,6 @@
 # prompt-arsenal
 
-A collection of prompts, rules, and guidelines for AI-assisted development workflows.
+A collection of skills, rules, and guidelines for AI-assisted development workflows.
 
 ## Contents
 
@@ -15,3 +15,6 @@ Prompts for automating recurring Codex/Claude tasks: skill creation, security sc
 
 ### `init-guides/`
 Step-by-step setup guides for bootstrapping new projects (e.g. TypeScript monorepo with pnpm + Turborepo).
+
+### `claude-skills/`
+Claude skills for Claude code and Claude itself.
