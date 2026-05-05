@@ -18,3 +18,6 @@ Step-by-step setup guides for bootstrapping new projects (e.g. TypeScript monore
 
 ### `claude-skills/`
 Claude skills for Claude code and Claude itself.
+
+### `claude-styles/`
+Used to create Claude response styles in Claude website or app itself.
